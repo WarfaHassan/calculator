@@ -1,0 +1,110 @@
+.calcborder{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    width: 500px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: #8395A7;
+    box-shadow: 5px 10px;
+    border-radius: 25px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.outputscreen{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-top: none;
+    width: 400px;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    background-color: #3498DB;
+    text-align:right;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+
+}
+.outputscreen2{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-bottom: none;
+    width: 400px;
+    height: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    background-color: #3498DB;
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    background-color: #DAE0E2;
+    border-radius: 10px;
+    outline:none;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.operator{
+    width: 100px;
+    height: 100px;
+    background-color: #192A56;
+    color: white;
+    border-radius: 10px;
+    outline:none;
+    font-family: 'Open Sans';
+    font-size: 15px;
+}
+
+.buttondiv{
+    text-align: center;
+}
+
+.clear{
+    width: 100px;
+    height: 100px;
+    background-color: #E44236;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    outline:none;
+
+}
+
+body{
+    background-color: #DAE0E2;
+}
+
+.equals{
+    width: 100px;
+    height: 100px;
+    background-color: #192A56;
+    color: white;
+    border-radius: 10px;
+    outline:none;
+}
+
+.spa{
+    border-color: black;
+    height: 10px;
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+}
